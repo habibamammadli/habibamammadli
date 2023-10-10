@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibamammadli&label=Profile%20views&color=0e75b6&style=flat" alt="habibamammadli" /> </p>
 
-- 🔭 I’m currently working on **Supply Chain Inventory Analysis**
+- 🔭 I’m currently working on **Data Visualization**
 
 - 🌱 I’m currently learning **Power BI**
 
